@@ -1,0 +1,6 @@
+[submodule "Assets/Synecdoche/Base"]
+	path = Assets/Synecdoche/Base
+	url = /Users/ogo/Hubris/Synecdoche/Synecdoche
+[submodule "Assets/Synecdoche/PostScriptum"]
+	path = Assets/Synecdoche/PostScriptum
+	url = /Users/ogo/Hubris/Synecdoche/PostScriptum
