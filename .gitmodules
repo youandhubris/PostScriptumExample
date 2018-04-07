@@ -4,3 +4,6 @@
 [submodule "Assets/Synecdoche/PostScriptum"]
 	path = Assets/Synecdoche/PostScriptum
 	url = /Users/ogo/Hubris/Synecdoche/PostScriptum
+[submodule "Assets/Synecdoche/HLSL"]
+	path = Assets/Synecdoche/HLSL
+	url = /Users/ogo/Hubris/HLSL-Library
